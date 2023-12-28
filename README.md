@@ -1,4 +1,4 @@
-# 004: Calculator
+# 004: THANK YOU
 
 A Pen created on CodePen.io. Original URL: [https://github.com/CodaWallah](https://github.com/CodaWallah).
 
